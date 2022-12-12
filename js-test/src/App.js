@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import {useEffect, useRef, useState} from 'react'
+import {useEffect, useRef} from 'react'
 
 function App() {
   const progressbar = useRef(null)

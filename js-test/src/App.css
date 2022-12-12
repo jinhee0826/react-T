@@ -1,6 +1,7 @@
 .App {
   text-align: center;
-  height: 3000px;
+  height: 3000px; /* 프로그레시브바 보이기 위해서 높이 조절해야함 */
+
 }
 
 .App-logo {
